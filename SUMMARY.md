@@ -9,4 +9,5 @@
 * [商品资讯](chapter6.md)
 * [口味](chapter7.md)
 * [加料](chapter8.md)
+* 商品属性设定
 
