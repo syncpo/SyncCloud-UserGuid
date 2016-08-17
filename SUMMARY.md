@@ -6,5 +6,5 @@
 * [商品管理](chapter2.md)
 * [商品规格](chapter3.md)
 * [商品大类](chapter4.md)
-* 商品中类
+* [商品中类](chapter5.md)
 
