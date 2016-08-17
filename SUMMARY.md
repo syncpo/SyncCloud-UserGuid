@@ -5,5 +5,4 @@
 * [登录与登出](chapter1.md)
 * [商品管理](chapter2.md)
 * [商品规格](chapter3.md)
-* [商品大类](.212/chapter4.md)
 
