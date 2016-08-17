@@ -7,5 +7,5 @@
 * [商品规格](chapter3.md)
 * [商品大类](chapter4.md)
 * [商品中类](chapter5.md)
-* [商品资讯](shang_pin_zi_xun.md)
+* [商品资讯](chapter.md)
 
