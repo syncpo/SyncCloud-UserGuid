@@ -9,7 +9,15 @@ SyncShop是Syncpo产品研发团队凭借多年餐饮零售行业研发经验，
 ## SyncCloud
 
 SyncCloud是SyncShop 门店管理系统的后台，本文是 SyncCloud 系统的帮助文档
-
+您可以快速点击下方的标题，直达您想了解的内容。
+* [登录与登出](chapter1.md)
+* [商品管理](chapter2.md)
+* [商品规格](chapter3.md)
+* [商品大类](chapter4.md)
+* [商品中类](chapter5.md)
+* [商品资讯](chapter6.md)
+* [口味](chapter7.md)
+* [加料](chapter8.md)
 
 ## 功能特性
 
