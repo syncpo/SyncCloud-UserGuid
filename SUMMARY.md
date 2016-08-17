@@ -4,5 +4,5 @@
 * [目录](contents.md)
 * [登录与登出](chapter1.md)
 * [商品管理](chapter2.md)
-* chapter3
+* [chapter3](chapter3.md)
 
