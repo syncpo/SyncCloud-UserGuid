@@ -1,3 +1,3 @@
-# My Awesome Book
+# SyncCloud使用手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+SyncCloud是SyncShop 收银系统的后台，这是 SyncCloud 系统的帮助文档
