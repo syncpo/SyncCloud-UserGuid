@@ -9,5 +9,5 @@
 * [商品中类](chapter5.md)
 * [商品资讯](chapter6.md)
 * [口味](chapter7.md)
-* 加料
+* [加料](chapter8.md)
 
