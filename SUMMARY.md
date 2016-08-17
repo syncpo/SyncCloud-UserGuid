@@ -8,4 +8,5 @@
 * [商品大类](chapter4.md)
 * [商品中类](chapter5.md)
 * [商品资讯](chapter6.md)
+* 口味
 
