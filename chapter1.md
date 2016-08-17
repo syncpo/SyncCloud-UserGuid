@@ -1,3 +1,12 @@
-# First Chapter
+# 登录与登出
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+打开任意浏览器，输入网址http://shop.syncpo.com ，即可进入后台登入界面：
+![](1.png)
+依次在输入框中输入邮箱账号、密码以及验证码后点击【登入】，即可进入后台管理界面；
+![](2.png)
+用户点击用户名，在弹出菜单中选择「登出」，即可进行退出当前登录用户的操作；
+![](3.png)
+
+
+
+
