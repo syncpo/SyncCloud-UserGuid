@@ -31,7 +31,7 @@
    * [公司税务](gong_si_shui_wu.md)
    * [后台角色](hou_tai_jiao_se.md)
    * [后台使用者](hou_tai_shi_yong_zhe.md)
-   * POS角色
+   * [POS角色](posjiao_se.md)
    * POS使用者
    * 功能按键
    * 功能按键范本
