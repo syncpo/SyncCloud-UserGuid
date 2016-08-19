@@ -47,7 +47,7 @@
 * [报表](bao_biao.md)
    * [商品销售排行榜](shang_pin_xiao_shou_pai_xing_bang.md)
    * [门店销售排行榜](men_dian_xiao_shou_pai_xing_bang.md)
-   * 各门店收款统计表
+   * [各门店收款统计表](ge_men_dian_shou_kuan_tong_ji_biao.md)
    * 退货单统计
    * 账单清单
    * 单店收款明细表
