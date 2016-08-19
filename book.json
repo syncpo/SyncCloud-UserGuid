@@ -2,8 +2,7 @@
     "plugins": [
         "yahei",
         "twfont",
-        "search-jieba",
-        "navigator"
+        "search-jieba"
     ],
     "pluginsConfig": {}
 }
