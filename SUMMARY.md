@@ -57,7 +57,7 @@
    * [发票明细表](fa_piao_ming_xi_biao.md)
    * [发票统计表](fa_piao_tong_ji_biao.md)
    * [会员明细表](hui_yuan_ming_xi_biao.md)
-   * 卡统计表
+   * [卡统计表](qia_tong_ji_biao.md)
    * 卡交易表
    * 卡明细表
    * 券统计表
