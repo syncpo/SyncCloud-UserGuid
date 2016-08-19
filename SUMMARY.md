@@ -9,7 +9,7 @@
    * [商品资讯](shang_pin_zi_xun.md)
    * [口味](kou_wei.md)
    * [加料](jia_liao.md)
-   * 商品属性设定
+   * [商品属性设定](shang_pin_shu_xing_she_ding.md)
    * 套餐
    * 商品导入
 * [商品属性设定](chapter2.7.md)
