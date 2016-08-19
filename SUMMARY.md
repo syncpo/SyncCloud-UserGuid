@@ -3,6 +3,7 @@
 * [产品简介](README.md)
 * [登录与登出](chapter1.md)
 * [商品管理](chapter2.md)
+   * 商品规格
 * [商品规格](chapter2.1.md)
 * [商品大类](chapter2.2.md)
 * [商品中类](chapter2.3.md)
