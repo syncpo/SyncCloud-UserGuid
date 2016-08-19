@@ -10,7 +10,7 @@
    * [口味](kou_wei.md)
    * [加料](jia_liao.md)
    * [商品属性设定](shang_pin_shu_xing_she_ding.md)
-   * 套餐
+   * [套餐](tao_can.md)
    * 商品导入
 * [套餐](chapter2.8.md)
 * [商品导入](chapter2.9.md)
