@@ -25,7 +25,7 @@
    * [储值卡](chu_zhi_qia.md)
    * [现金券](xian_jin_quan.md)
    * [会员类别](hui_yuan_lei_bie.md)
-   * 会员资讯
+   * [会员资讯](hui_yuan_zi_xun.md)
 * 系统设定
    * 公司资讯
    * 公司税务
