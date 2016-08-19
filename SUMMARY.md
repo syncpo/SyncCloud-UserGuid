@@ -12,7 +12,6 @@
    * [商品属性设定](shang_pin_shu_xing_she_ding.md)
    * [套餐](tao_can.md)
    * [商品导入](shang_pin_dao_ru.md)
-* [套餐](chapter2.8.md)
 * [商品导入](chapter2.9.md)
 * [门店管理](chapter3.md)
 * [加盟商管理](chapter3.1.md)
