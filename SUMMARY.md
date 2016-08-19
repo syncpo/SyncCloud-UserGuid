@@ -22,7 +22,7 @@
    * [折扣按键](zhe_kou_an_jian.md)
    * [折扣按键范本](zhe_kou_an_jian_fan_ben.md)
    * [行销活动](xing_xiao_huo_dong.md)
-   * 储值卡
+   * [储值卡](chu_zhi_qia.md)
    * 现金券
    * 会员类别
    * 会员资讯
