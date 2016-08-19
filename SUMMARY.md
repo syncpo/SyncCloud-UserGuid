@@ -40,7 +40,7 @@
    * [第二屏信息](di_er_ping_xin_xi.md)
    * [班次设置](ban_ci_she_zhi.md)
    * [收支管理](shou_zhi_guan_li.md)
-   * 票据格式
+   * [票据格式](piao_ju_ge_shi.md)
    * 汇率
    * 数据下派
    * 门店发版记录
