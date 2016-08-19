@@ -32,7 +32,7 @@
    * [后台角色](hou_tai_jiao_se.md)
    * [后台使用者](hou_tai_shi_yong_zhe.md)
    * [POS角色](posjiao_se.md)
-   * POS使用者
+   * [POS使用者](posshi_yong_zhe.md)
    * 功能按键
    * 功能按键范本
    * 收款按键
