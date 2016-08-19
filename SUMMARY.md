@@ -14,7 +14,7 @@
 * [商品导入](chapter2.9.md)
 * [门店管理](chapter3.md)
 * [加盟商管理](chapter3.1.md)
-* 门店商圈
+* [门店商圈](chapter3.2.md)
 * 门店资讯
 * 销售管理
 
