@@ -24,7 +24,7 @@
    * [行销活动](xing_xiao_huo_dong.md)
    * [储值卡](chu_zhi_qia.md)
    * [现金券](xian_jin_quan.md)
-   * 会员类别
+   * [会员类别](hui_yuan_lei_bie.md)
    * 会员资讯
 * 系统设定
    * 公司资讯
