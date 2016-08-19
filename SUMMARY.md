@@ -35,7 +35,7 @@
    * [POS使用者](posshi_yong_zhe.md)
    * [功能按键](gong_neng_an_jian.md)
    * [功能按键范本](gong_neng_an_jian_fan_ben.md)
-   * 收款按键
+   * [收款按键](shou_kuan_an_jian.md)
    * 收款按键范本
    * 第二屏信息
    * 班次设置
