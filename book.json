@@ -5,7 +5,8 @@
         "tree",
         "translated",
         "sitemap",
-        "share"
+        "share",
+        "search-jieba"
     ],
     "pluginsConfig": {}
 }
