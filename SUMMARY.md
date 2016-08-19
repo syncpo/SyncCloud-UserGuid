@@ -18,4 +18,5 @@
    * [门店资讯](men_dian_zi_xun.md)
 * [销售管理](chapter4.md)
    * 销售范本
+   * 价格策略
 
