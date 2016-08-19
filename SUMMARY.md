@@ -26,7 +26,7 @@
    * [现金券](xian_jin_quan.md)
    * [会员类别](hui_yuan_lei_bie.md)
    * [会员资讯](hui_yuan_zi_xun.md)
-* 系统设定
+* [系统设定](xi_tong_she_ding.md)
    * 公司资讯
    * 公司税务
    * 后台角色
