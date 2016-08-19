@@ -2,7 +2,6 @@
     "plugins": [
         "yahei",
         "twfont",
-        "tree",
         "translated",
         "search-jieba",
         "navigator"
