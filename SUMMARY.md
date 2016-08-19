@@ -27,7 +27,7 @@
    * [会员类别](hui_yuan_lei_bie.md)
    * [会员资讯](hui_yuan_zi_xun.md)
 * [系统设定](xi_tong_she_ding.md)
-   * 公司资讯
+   * [公司资讯](gong_si_zi_xun.md)
    * 公司税务
    * 后台角色
    * 后台使用者
