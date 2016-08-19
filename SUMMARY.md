@@ -18,5 +18,4 @@
 * [加盟商管理](chapter3.1.md)
 * [门店商圈](chapter3.2.md)
 * [销售管理](chapter4.md)
-* 销售范本
 
