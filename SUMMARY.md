@@ -13,6 +13,7 @@
    * [套餐](tao_can.md)
    * [商品导入](shang_pin_dao_ru.md)
 * [门店管理](chapter3.md)
+   * 加盟商管理
 * [加盟商管理](chapter3.1.md)
 * [门店商圈](chapter3.2.md)
 * [门店资讯](chapter3.3.md)
