@@ -55,7 +55,7 @@
    * [店别商品比较表](dian_bie_shang_pin_bi_jiao_biao.md)
    * [日营业明细表](ri_ying_ye_ming_xi_biao.md)
    * [发票明细表](fa_piao_ming_xi_biao.md)
-   * 发票统计表
+   * [发票统计表](fa_piao_tong_ji_biao.md)
    * 会员明曦表
    * 卡统计表
    * 卡交易表
