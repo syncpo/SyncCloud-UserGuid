@@ -7,7 +7,6 @@
    * [商品大类](shang_pin_da_lei.md)
    * [商品中类](shang_pin_zhong_lei.md)
    * [商品资讯](shang_pin_zi_xun.md)
-       * 口味
 * [商品资讯](chapter2.4.md)
 * [口味](chapter2.5.md)
 * [加料](chapter2.6.md)
