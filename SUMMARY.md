@@ -42,7 +42,7 @@
    * [收支管理](shou_zhi_guan_li.md)
    * [票据格式](piao_ju_ge_shi.md)
    * [汇率](hui_lv.md)
-   * 数据下派
+   * [数据下派](shu_ju_xia_pai.md)
    * 门店发版记录
 * 报表
    * 商品销售排行榜
