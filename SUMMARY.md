@@ -50,7 +50,7 @@
    * [各门店收款统计表](ge_men_dian_shou_kuan_tong_ji_biao.md)
    * [退货单统计](tui_huo_dan_tong_ji.md)
    * [账单清单](zhang_dan_qing_dan.md)
-   * 单店收款明细表
+   * [单店收款明细表](dan_dian_shou_kuan_ming_xi_biao.md)
    * 门店总销售记录
    * 店别商品比较表
    * 日营业明细表
