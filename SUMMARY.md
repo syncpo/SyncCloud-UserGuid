@@ -16,5 +16,5 @@
 * [加盟商管理](chapter3.1.md)
 * [门店商圈](chapter3.2.md)
 * [门店资讯](chapter3.3.md)
-* 销售管理
+* [销售管理](chapter4.md)
 
