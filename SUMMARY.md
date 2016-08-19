@@ -54,7 +54,7 @@
    * [门店总销售记录](men_dian_zong_xiao_shou_ji_lu.md)
    * [店别商品比较表](dian_bie_shang_pin_bi_jiao_biao.md)
    * [日营业明细表](ri_ying_ye_ming_xi_biao.md)
-   * 发票明细表
+   * [发票明细表](fa_piao_ming_xi_biao.md)
    * 发票统计表
    * 会员明曦表
    * 卡统计表
