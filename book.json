@@ -6,7 +6,8 @@
         "translated",
         "sitemap",
         "share",
-        "search-jieba"
+        "search-jieba",
+        "navigator"
     ],
     "pluginsConfig": {}
 }
