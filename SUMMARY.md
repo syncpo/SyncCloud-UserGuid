@@ -10,6 +10,6 @@
 * [2.5 口味](chapter7.md)
 * [2.6 加料](chapter8.md)
 * [2.7 商品属性设定](chapter9.md)
-* [套餐](chapter10.md)
+* [2.8 套餐](chapter10.md)
 * [商品导入](chapter11.md)
 
