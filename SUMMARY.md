@@ -11,5 +11,5 @@
 * [加料](chapter8.md)
 * [商品属性设定](chapter9.md)
 * [套餐](chapter10.md)
-* 商品导入
+* [商品导入](chapter11.md)
 
