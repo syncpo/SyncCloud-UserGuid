@@ -52,7 +52,7 @@
    * [账单清单](zhang_dan_qing_dan.md)
    * [单店收款明细表](dan_dian_shou_kuan_ming_xi_biao.md)
    * [门店总销售记录](men_dian_zong_xiao_shou_ji_lu.md)
-   * 店别商品比较表
+   * [店别商品比较表](dian_bie_shang_pin_bi_jiao_biao.md)
    * 日营业明细表
    * 发票明细表
    * 发票统计表
