@@ -14,7 +14,7 @@
    * [商品导入](shang_pin_dao_ru.md)
 * [门店管理](chapter3.md)
    * [加盟商管理](jia_meng_shang_guan_li.md)
-   * 门店商圈
+   * [门店商圈](men_dian_shang_quan.md)
    * 门店资讯
 * [销售管理](chapter4.md)
 
