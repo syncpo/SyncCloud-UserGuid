@@ -10,5 +10,5 @@
 * [口味](chapter7.md)
 * [加料](chapter8.md)
 * [商品属性设定](chapter9.md)
-* 套餐
+* [套餐](chapter10.md)
 
