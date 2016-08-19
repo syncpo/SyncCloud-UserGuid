@@ -59,7 +59,7 @@
    * [会员明细表](hui_yuan_ming_xi_biao.md)
    * [卡统计表](qia_tong_ji_biao.md)
    * [卡交易表](qia_jiao_yi_biao.md)
-   * 卡明细表
+   * [卡明细表](qia_ming_xi_biao.md)
    * 券统计表
    * 券明细表
    * 员工考勤表
