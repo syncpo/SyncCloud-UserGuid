@@ -44,7 +44,7 @@
    * [汇率](hui_lv.md)
    * [数据下派](shu_ju_xia_pai.md)
    * [门店发版记录](men_dian_fa_ban_ji_lu.md)
-* 报表
+* [报表](bao_biao.md)
    * [商品销售排行榜](shang_pin_xiao_shou_pai_xing_bang.md)
    * 门店销售排行榜
    * 各门店收款统计表
