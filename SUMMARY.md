@@ -43,7 +43,7 @@
    * [票据格式](piao_ju_ge_shi.md)
    * [汇率](hui_lv.md)
    * [数据下派](shu_ju_xia_pai.md)
-   * 门店发版记录
+   * [门店发版记录](men_dian_fa_ban_ji_lu.md)
 * 报表
    * 商品销售排行榜
    * 门店销售排行榜
