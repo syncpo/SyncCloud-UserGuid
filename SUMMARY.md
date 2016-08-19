@@ -39,7 +39,7 @@
    * [收款按键范本](shou_kuan_an_jian_fan_ben.md)
    * [第二屏信息](di_er_ping_xin_xi.md)
    * [班次设置](ban_ci_she_zhi.md)
-   * 收支管理
+   * [收支管理](shou_zhi_guan_li.md)
    * 票据格式
    * 汇率
    * 数据下派
