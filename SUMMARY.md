@@ -1,7 +1,7 @@
 # Summary
 
 * [产品简介](README.md)
-* [登录与登出](chapter1.md)
+* [1 登录与登出](chapter1.md)
 * [商品管理](chapter2.md)
 * [2.1 商品规格](chapter2.1.md)
 * [2.2商品大类](chapter2.2.md)
