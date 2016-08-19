@@ -17,7 +17,7 @@
    * [门店商圈](men_dian_shang_quan.md)
    * [门店资讯](men_dian_zi_xun.md)
 * [销售管理](chapter4.md)
-   * 销售范本
+   * [销售范本](xiao_shou_fan_ben.md)
    * 价格策略
    * 折扣按键
    * 折扣按键范本
