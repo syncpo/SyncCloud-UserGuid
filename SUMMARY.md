@@ -64,5 +64,5 @@
    * [券明细表](quan_ming_xi_biao.md)
    * [员工考勤表](yuan_gong_kao_qin_biao.md)
    * [会计科目表](hui_ji_ke_mu_biao.md)
-   * 门店销售分析
+   * [门店销售分析](men_dian_xiao_shou_fen_xi.md)
 
