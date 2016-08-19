@@ -1,7 +1,8 @@
 {
     "plugins": [
         "yahei",
-        "twfont"
+        "twfont",
+        "tree"
     ],
     "pluginsConfig": {}
 }
