@@ -19,7 +19,7 @@
 * [销售管理](chapter4.md)
    * [销售范本](xiao_shou_fan_ben.md)
    * [价格策略](jia_ge_ce_lve.md)
-   * 折扣按键
+   * [折扣按键](zhe_kou_an_jian.md)
    * 折扣按键范本
    * 行销活动
    * 储值卡
