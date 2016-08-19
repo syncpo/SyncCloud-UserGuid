@@ -11,6 +11,6 @@
 * [加料](chapter2.6.md)
 * [商品属性设定](chapter2.7.md)
 * [套餐](chapter2.8.md)
-* [2.9 商品导入](chapter2.9.md)
+* [商品导入](chapter2.9.md)
 * 门店管理
 
