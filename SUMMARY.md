@@ -9,6 +9,7 @@
    * [商品资讯](shang_pin_zi_xun.md)
    * 口味
    * 加料
+   * 商品属性设定
 * [商品资讯](chapter2.4.md)
 * [口味](chapter2.5.md)
 * [加料](chapter2.6.md)
