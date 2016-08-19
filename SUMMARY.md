@@ -20,7 +20,7 @@
    * [销售范本](xiao_shou_fan_ben.md)
    * [价格策略](jia_ge_ce_lve.md)
    * [折扣按键](zhe_kou_an_jian.md)
-   * 折扣按键范本
+   * [折扣按键范本](zhe_kou_an_jian_fan_ben.md)
    * 行销活动
    * 储值卡
    * 现金券
