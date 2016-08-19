@@ -61,7 +61,7 @@
    * [卡交易表](qia_jiao_yi_biao.md)
    * [卡明细表](qia_ming_xi_biao.md)
    * [券统计表](quan_tong_ji_biao.md)
-   * 券明细表
+   * [券明细表](quan_ming_xi_biao.md)
    * 员工考勤表
    * 会计科目表
    * 门店销售分析
