@@ -2,8 +2,8 @@
     "plugins": [
         "yahei",
         "twfont",
-        "tree",
         "translated",
+        "sitemap",
         "search-jieba",
         "navigator",
         "zealar"
